@@ -4,7 +4,7 @@ A clean and minimalist personal portfolio website showcasing developer informati
 
 ## 🎨 Preview
 
-![Portfolio Preview](screenshot.png)
+![Portfolio Preview](https://tiny-creponne-271dfa.netlify.app/)
 
 ## ✨ Features
 
